@@ -3,3 +3,5 @@ Adding content.
 This is content from ain branch and bug branch.
 
 future error
+
+stash text
