@@ -7,3 +7,5 @@ future error
 stash text
 
 hi added in github
+
+added on vscode
